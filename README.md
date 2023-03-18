@@ -24,3 +24,5 @@ filtreleme yaparken eğer tabloda kayıtlı kullanıcı yoksa bütün kullanıc�
 aynı kullanıcı birden fazla kez kayıt edilmektedir telefon numarasına bağlı eşsiz filtreleme yapılmalıdır
 
 inputlar veriler girildikten sonra temizlenmiyor
+
+![](./taslak.png)
