@@ -1,6 +1,6 @@
 ## React ile formlarla rehber arayüzü oluşturma
 
-projeyi indirdikten sonra terminale
+projeyi indirdikten sonra node_module klasörünü indirmek için terminale
 ```javascript
 npm install create-creat-app
 ```
@@ -14,7 +14,8 @@ npm start
 ```
 yazıp projeyi başlatabilirsiniz.
 
-proje çalışmaktadır tabloya isim soyisim telefon numarası yazdıktan sonra tabloda gösterilecektir 
+proje çalışmaktadır tabloya isim ,soyisim, telefon numarası, yazdıktan sonra tabloda gösterilecektir 
+
 projeye ekleme yaptıktan sonra filtreleme yapılabilecektir
 
 ## Projede eksik olanlar
