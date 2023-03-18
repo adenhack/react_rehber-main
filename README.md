@@ -1,4 +1,6 @@
-## projeyi indirdikten sonra terminale
+##React ile formlarla rehber arayüzü oluşturma
+
+projeyi indirdikten sonra terminale
 ```javascript
 npm install create-creat-app
 ```
@@ -11,3 +13,14 @@ yazarak projenin olduğu dosyaya gidip
 npm start
 ```
 yazıp projeyi başlatabilirsiniz.
+
+proje çalışmaktadır tabloya isim soyisim telefon numarası yazdıktan sonra tabloda gösterilecektir 
+projeye ekleme yaptıktan sonra filtreleme yapılabilecektir
+
+##Projede eksik olanlar
+
+filtreleme yaparken eğer tabloda kayıtlı kullanıcı yoksa bütün kullanıcıları göstermektedir kodlamayı o şekilde yaptım kayıtlı kullanıcı yoksa boş tablo gösterilebilir
+
+aynı kullanıcı birden fazla kez kayıt edilmektedir telefon numarasına bağlı eşsiz filtreleme yapılmalıdır
+
+inputlar veriler girildikten sonra temizlenmiyor
