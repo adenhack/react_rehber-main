@@ -1,4 +1,4 @@
-##React ile formlarla rehber arayüzü oluşturma
+## React ile formlarla rehber arayüzü oluşturma
 
 projeyi indirdikten sonra terminale
 ```javascript
@@ -17,7 +17,7 @@ yazıp projeyi başlatabilirsiniz.
 proje çalışmaktadır tabloya isim soyisim telefon numarası yazdıktan sonra tabloda gösterilecektir 
 projeye ekleme yaptıktan sonra filtreleme yapılabilecektir
 
-##Projede eksik olanlar
+## Projede eksik olanlar
 
 filtreleme yaparken eğer tabloda kayıtlı kullanıcı yoksa bütün kullanıcıları göstermektedir kodlamayı o şekilde yaptım kayıtlı kullanıcı yoksa boş tablo gösterilebilir
 
