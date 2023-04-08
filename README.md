@@ -18,12 +18,4 @@ proje çalışmaktadır tabloya isim ,soyisim, telefon numarası, yazdıktan son
 
 projeye ekleme yaptıktan sonra filtreleme yapılabilecektir
 
-## Projede eksik olanlar
-
-1.filtreleme yaparken eğer tabloda kayıtlı kullanıcı yoksa bütün kullanıcıları göstermektedir kodlamayı o şekilde yaptım kayıtlı kullanıcı yoksa boş tablo gösterilebilir
-
-2.aynı kullanıcı birden fazla kez kayıt edilmektedir telefon numarasına bağlı eşsiz filtreleme yapılmalıdır
-
-3.inputlar veriler girildikten sonra temizlenmiyor
-
 ![](./taslak.png)
